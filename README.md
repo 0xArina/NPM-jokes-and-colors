@@ -1,5 +1,5 @@
 # NPM jokes and colors
-practicing using NPM of random jokes and colors 
+practicing using NPM with random jokes and colors 
 
 1. Create new Js file in GitBash <br>
 ![](createNewFileDemo.png) <br>
